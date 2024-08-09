@@ -134,6 +134,7 @@ line-height: 160%;
 
 .circle3
 {
+    margin-top: 50px;
     height: 100px;
     width: 200px;
     background: linear-gradient(69.40deg, rgb(251, 162, 79) -5.202%,rgb(255, 30, 30) 142.696%);
@@ -145,10 +146,21 @@ line-height: 160%;
 }
 .section-2-div2 h1
 {
-    margin-top: 100px;
+    margin-top: 150px;
     color: rgb(112, 112, 112);
 
 font-size: 40px;
 font-weight: 700;
 line-height: 54px;
+}
+.section-2-div2 p
+{
+    color: rgb(24, 25, 31);
+font-size: 22px;
+font-weight: 400;
+line-height: 32px;
+}
+.btn1
+{
+    margin-top: 100px;
 }
