@@ -46,7 +46,7 @@
 .section-1-div1 p
 {
     color: rgb(130, 130, 130);
-f
+
 font-weight: 500;
 line-height: 160%;
 
@@ -95,6 +95,7 @@ line-height: 160%;
     transform: rotate(180deg)
    
 }
+
 
 
 .circle2
@@ -163,4 +164,62 @@ line-height: 32px;
 .btn1
 {
     margin-top: 100px;
+}
+
+
+
+/* sectiosn-3 */
+.section-3
+{
+    background: rgb(255, 255, 255);
+}
+.section-3-header
+{
+    width: 700px;
+    margin: 0 auto;
+}
+.section-3-header h1
+{
+
+    color: rgb(103, 103, 103);
+    font-size: 42px;
+}
+.section-3-header p
+{
+    color: rgb(37, 37, 37);
+    font-size: 18px;
+    text-align: center;
+}
+.section-3-card
+{
+    width: 530px;
+    height: 550px;
+    border-radius: 30px;
+
+box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.15);
+background: rgb(255, 255, 255);
+padding: 20px;
+}
+.section-3-card img
+{
+    height: 330px;
+    width: 530px;
+    margin-left: 10px;
+}
+.section-3-card h1
+{
+    color: rgb(24, 25, 31);
+    font-size: 30px;
+font-weight: 800;
+line-height: 40px;
+}
+.section-3-card p
+{
+    color: rgb(24, 25, 31);
+    font-size: 18px;
+}
+.section-3-card-main
+{
+    display:flex;
+    gap: 10px;
 }
