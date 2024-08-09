@@ -254,3 +254,21 @@ line-height: 40px;
     justify-content: space-around;
     align-items: center;
 }
+.section-5
+{
+    background: rgb(11, 13, 23);
+    height: 250px;
+}
+.section-5 h1
+{
+    font-size: 48px;
+    color: rgb(91, 91, 91);
+    text-align: center;
+    margin-top: 100px;
+}
+.section-5 p
+{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    text-align: center;
+}
